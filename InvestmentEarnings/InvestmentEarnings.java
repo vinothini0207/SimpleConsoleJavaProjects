@@ -1,3 +1,4 @@
+package InvestmentEarnings;
 import java.util.Scanner;
 import java.text.*;
 public class InvestmentEarnings {
